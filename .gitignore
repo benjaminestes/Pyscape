@@ -3,6 +3,8 @@
 keys.json
 holding/
 urls.txt
+api.txt
+output.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
